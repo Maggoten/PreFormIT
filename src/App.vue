@@ -23,7 +23,6 @@
         }
     }
 
-    // TODO: change css for .grid-container>.test {
 </script>
 
 <style>
@@ -48,7 +47,7 @@ footer { grid-area: footer; }
 
 }
 
-.grid-container>.test {
+.grid-container>.center {
   background-color: rgb(255, 255, 255);
   text-align: center;
   align-items: center;

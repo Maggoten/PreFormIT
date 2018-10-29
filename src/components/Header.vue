@@ -1,5 +1,5 @@
 <template>
-    <header class="test">
+    <header class="center">
         <a itemprop="url" class="img" href="http://preformit.se/">
         <img src="../assets/PreFormITLogo.svg" alt="PreFormIT" class="img-responsive">
         </a>

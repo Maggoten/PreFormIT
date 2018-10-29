@@ -1,5 +1,5 @@
 <template >
-    <footer class="test">
+    <footer class="center">
         <p>Partners</p>
         <a v-for="image in images" :href="image.href">
           <img :src="(image.src)" :class="imgpartner" :alt="image.alt"/>
