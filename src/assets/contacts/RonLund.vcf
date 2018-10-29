@@ -1,0 +1,15 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lund;Ron;;;
+FN:Ron Lund
+BDAY;VALUE=DATE:19910908
+ADR;TYPE=WORK;CHARSET=utf-8:;;Drottningholmsvägen 342;Bromma;Stockholm;168
+  73;Sweden
+TEL;TYPE=CELL,VOICE:070-545 45 12
+TEL;TYPE=WORK,VOICE:070-545 45 12
+EMAIL;TYPE=HOME,PREF,INTERNET:ronlund91@hotmail.com
+EMAIL;TYPE=WORK,INTERNET:ron.lund@preform.se
+TITLE:Developer
+ORG:PreFormIT AB
+URL:www.preformit.se
+END:VCARD
