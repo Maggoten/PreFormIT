@@ -4,3 +4,4 @@ deployment:
     - export DEPLOYPATH=/home/faocaksb/public_html/
     - /bin/cp index.html $DEPLOYPATH
     - /bin/cp dist/build.js $DEPLOYPATH
+    - /bin/cp dist/build.js.map $DEPLOYPATH
