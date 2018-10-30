@@ -3,5 +3,5 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/faocaksb/public_html/
     - /bin/cp index.html $DEPLOYPATH
-    - /bin/cp dist/build.js $DEPLOYPATH/dist/
-    - /bin/cp dist/build.js.map $DEPLOYPATH/dist/
+    - /bin/cp dist/build.js /home/faocaksb/public_html/dist/
+    - /bin/cp dist/build.js.map /home/faocaksb/public_html/dist/
